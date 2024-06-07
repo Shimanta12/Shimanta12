@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shimanta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shimanta/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shimant0barua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shimant0barua/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/sh1m4nt0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sh1m4nt0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sbemon1356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sbemon1356/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shimanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shimanta" height="30" width="40" /></a>
+<a href="https://fb.com/shimant0barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shimant0barua" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sh1m4nt0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sh1m4nt0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sbemon1356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sbemon1356" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
