@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emon Barua Shimanta</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate programmer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **Web development** and solving algorithmic problems.
 
 - 📫 How to reach me **sbemon1356@gmail.com**
 
