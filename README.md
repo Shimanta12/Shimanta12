@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanta12&label=Profile%20views&color=0e75b6&style=flat" alt="shimanta12" /> </p>
 
-- 🌱 I’m currently learning **Back-end with Golang**
+- 🌱 I’m currently learning **Backend Development with Golang**
 
 - 📫 How to reach me **sbemon1356@gmail.com**
 
