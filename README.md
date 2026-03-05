@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emon Barua Shimanta</h1>
-<h3 align="center">Competitive Programmer | Aspiring Software Engineer</h3>
+<h3 align="center">Competitive Programmer  | CS Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanta12&label=Profile%20views&color=0e75b6&style=flat" alt="shimanta12" /> </p>
 
