@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emon Barua Shimanta</h1>
-<h3 align="center">Competitive Programmer | Aspiring Backend Developer</h3>
+<h3 align="center">Competitive Programmer | Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Backend devlopment with Golang**
 
 - 📫 How to reach me **sbemon1356@gmail.com**
 
